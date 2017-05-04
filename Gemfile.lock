@@ -36,6 +36,7 @@ GEM
       declarative (< 0.1.0)
       declarative-option (< 0.2.0)
       uber (< 0.2.0)
+    table_print (1.5.6)
     thread_safe (0.3.6)
     tracker_api (1.7.0)
       addressable
@@ -61,6 +62,7 @@ PLATFORMS
 DEPENDENCIES
   activesupport (~> 5.0.0)
   dotenv
+  table_print
   tracker_api
 
 BUNDLED WITH
